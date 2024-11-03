@@ -4,7 +4,6 @@
 [![Install](https://github.com/siliconshells/DE_Mini_Project_Nine/actions/workflows/install.yml/badge.svg)](https://github.com/siliconshells/DE_Mini_Project_Nine/actions/workflows/install.yml)
 
 
-
 ## Data Engineering Mini Project Nine
 
 This repository is created to fulfill an assignments in the Data Engineering course, IDS 706. The aim is to create 

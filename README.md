@@ -1,7 +1,7 @@
-[![Format](https://github.com/nogibjj/Leonard_Eshun_Mini_Project_Nine/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/Leonard_Eshun_Mini_Project_Nine/actions/workflows/format.yml)
-[![Test](https://github.com/nogibjj/Leonard_Eshun_Mini_Project_Nine/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/Leonard_Eshun_Mini_Project_Nine/actions/workflows/test.yml)
-[![Lint](https://github.com/nogibjj/Leonard_Eshun_Mini_Project_Nine/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/Leonard_Eshun_Mini_Project_Nine/actions/workflows/lint.yml)
-[![Install](https://github.com/nogibjj/Leonard_Eshun_Mini_Project_Nine/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/Leonard_Eshun_Mini_Project_Nine/actions/workflows/install.yml)
+[![Format](https://github.com/siliconshells/DE_Mini_Project_Nine/actions/workflows/format.yml/badge.svg)](https://github.com/siliconshells/DE_Mini_Project_Nine/actions/workflows/format.yml)
+[![Test](https://github.com/siliconshells/DE_Mini_Project_Nine/actions/workflows/test.yml/badge.svg)](https://github.com/siliconshells/DE_Mini_Project_Nine/actions/workflows/test.yml)
+[![Lint](https://github.com/siliconshells/DE_Mini_Project_Nine/actions/workflows/lint.yml/badge.svg)](https://github.com/siliconshells/DE_Mini_Project_Nine/actions/workflows/lint.yml)
+[![Install](https://github.com/siliconshells/DE_Mini_Project_Nine/actions/workflows/install.yml/badge.svg)](https://github.com/siliconshells/DE_Mini_Project_Nine/actions/workflows/install.yml)
 
 
 
